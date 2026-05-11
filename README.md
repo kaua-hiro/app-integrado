@@ -30,7 +30,7 @@ Pré-requisitos: Node.js instalado na máquina.
 Abra o seu terminal e execute os comandos abaixo:
 
     # Clone este repositório
-    git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+    git clone https://github.com/kaua-hiro/app-integrado.git
 
     # Navegue até o diretório principal do aplicativo
     cd app-integrado
