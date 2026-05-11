@@ -49,4 +49,4 @@ A interface foi refatorada utilizando limitadores de largura máxima (`maxWidth:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por Kauã Hiro Mizumoto como parte integrante do 3º semestre do curso de Desenvolvimento de Software Multiplataforma na Fatec.
+Projeto desenvolvido por Kauã Hiro Mizumoto como parte integrante do 4º semestre do curso de Desenvolvimento de Software Multiplataforma na Fatec.
